@@ -6,7 +6,7 @@ through homelab environments, security automation tools, and real-world client I
 healthcare and transport industries.
 
 Currently targeting Security Analyst and SOC Analyst roles while building toward Cloud Security 
-Engineer and DevSecOps long term.
+Engineer and AI Security long term.
 
 ---
 
