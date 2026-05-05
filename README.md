@@ -60,7 +60,7 @@ Engineer and DevSecOps long term.
 
 ---
 
-### [Splunk SIEM Lab](https://github.com/CodeBroKinty/splunk-siem-lab) *
+### [Splunk SIEM Lab](https://github.com/CodeBroKinty/splunk-siem-lab) 
 > Deployed Splunk, ingested endpoint and authentication log data, and performed threat 
 > hunting using SPL queries. Identified simulated security incidents including failed 
 > login patterns, off-hours authentication, and privilege escalation attempts. 
