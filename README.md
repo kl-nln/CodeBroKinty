@@ -20,9 +20,9 @@ Currently targeting **Security Analyst** and **SOC Analyst** roles while buildin
 
 ## 🔐 Featured Projects
 
-### Python Security Automation Labs ⭐
+### [Python Security Automation Labs⭐](https://github.com/CodeBroKinty/python-automation-labs)
 **18 production-ready security automation tools built across core cloud security domains**
-📁 [github.com/CodeBroKinty/python-automation-labs](https://github.com/CodeBroKinty/python-automation-labs)
+📁 [github.com/CodeBroKinty/python-automation-labs]
 
 #### 🛡️ AWS Security Suite
 - **S3 Security Auditor** — Detects misconfigurations (public access, encryption, versioning, logging) with risk scoring (CRITICAL / HIGH / MEDIUM / LOW) — targets class of vulnerability behind the Capital One breach ($190M settlement)
@@ -53,14 +53,14 @@ Designed and administered a Windows Server Active Directory environment simulati
 
 ---
 
-### Splunk SIEM Lab
+### [Splunk SIEM Lab](https://github.com/CodeBroKinty/splunk-siem-lab)
 Deployed Splunk, ingested endpoint and authentication log data, and performed threat hunting using SPL queries. Identified simulated security incidents including failed login patterns, off-hours authentication, and privilege escalation attempts. Documented findings in incident report format.
 
 **Skills:** Splunk, SIEM, SPL Queries, Log Analysis, Threat Hunting, Incident Documentation
 
 ---
 
-### Wazuh EDR Homelab
+### [Wazuh EDR Homelab](https://github.com/CodeBroKinty/wazuh-edr-homelab)
 Deployed Wazuh open-source EDR platform across a multi-OS homelab environment (Windows and Linux). Configured endpoint agents, triggered and analyzed security alerts including failed logins and file integrity changes, and documented findings using industry-standard incident reporting format.
 
 **Skills:** EDR, Wazuh, Endpoint Monitoring, Alert Triage, Incident Reporting, Linux, Windows Server
