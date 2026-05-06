@@ -46,10 +46,6 @@ Currently targeting **Security Analyst** and **SOC Analyst** roles while buildin
 
 ## 🛠️ Homelab Projects
 
-### Active Directory / IAM Lab
-Designed and administered a Windows Server Active Directory environment simulating a multi-department organization. Implemented joiner/mover/leaver (JML) lifecycle management, role-based access control (RBAC) via security groups, Group Policy configuration, and access auditing. Identified and documented accounts with excessive permissions as mock audit findings.
-
-**Skills:** Active Directory, IAM, RBAC, GPO, JML Lifecycle, Access Auditing, Windows Server
 
 ---
 
@@ -64,6 +60,20 @@ Deployed Splunk, ingested endpoint and authentication log data, and performed th
 Deployed Wazuh open-source EDR platform across a multi-OS homelab environment (Windows and Linux). Configured endpoint agents, triggered and analyzed security alerts including failed logins and file integrity changes, and documented findings using industry-standard incident reporting format.
 
 **Skills:** EDR, Wazuh, Endpoint Monitoring, Alert Triage, Incident Reporting, Linux, Windows Server
+
+---
+
+### [Wireshark Network Traffic Analysis Lab](https://github.com/CodeBroKinty/wireshark-lab) 
+Performed live packet capture, traffic baselining, and SOC-style forensic triage of a real-world NetSupport Manager RAT infection using Wireshark on Parrot OS. Identified all 5 IOCs from raw packet data including infected host IP, MAC, hostname, user account, and full name. Includes incident report, IOC documentation, and annotated screenshots.
+
+**Skills:** Wireshark · Packet Analysis · Network Forensics · TCP/IP · DNS · Kerberos · NBNS · SAMR · Nmap · Parrot OS · Linux · Incident Response · IOC Extraction · C2 Traffic Detection · Display Filter Development · Threat Triage
+---
+
+### Active Directory / IAM Lab
+Designed and administered a Windows Server Active Directory environment simulating a multi-department organization. Implemented joiner/mover/leaver (JML) lifecycle management, role-based access control (RBAC) via security groups, Group Policy configuration, and access auditing. Identified and documented accounts with excessive permissions as mock audit findings.
+
+**Skills:** Active Directory, IAM, RBAC, GPO, JML Lifecycle, Access Auditing, Windows Server
+
 
 ---
 
