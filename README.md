@@ -1,6 +1,6 @@
 # Hi, I'm Kiante 👋
 
-I'm a cybersecurity professional and IT consultant transitioning into Cloud Security Engineering. I hold CompTIA Security+ and have spent the last several months building hands-on experience through homelab environments, security automation tools, and real-world client IT work across healthcare and transport industries.
+I'm a CyberSecurity professional and IT consultant transitioning into Cloud Security Engineering. I hold CompTIA Security+ and have spent the last year or so building hands-on experience through homelab environments, security automation tools, and real-world client IT work across healthcare and transport industries.
 
 Currently targeting **Security Analyst** and **SOC Analyst** roles while building toward **Cloud Security Engineer** and **AI Security Specialist** long term.
 
