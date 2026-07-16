@@ -14,7 +14,7 @@ Currently targeting **Security Analyst** and **SOC Analyst** roles while buildin
 | Google AI Essentials | Google | April 2026 |
 | Google Prompting Essentials | Google | April 2026 |
 
-> 🔄 In progress: AWS Certified Cloud Practitioner (Target: July 2026)
+> 🔄 In progress: AWS Certified Cloud Practitioner & Ai Practitioner (Target: August 2026)
 
 ---
 
