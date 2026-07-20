@@ -1,9 +1,12 @@
-# Hi, I'm Kiante
+# Cybersecurity Professional → Cloud & AI Security 
 
-I am a cybersecurity professional and IT consultant building toward Cloud and AI Security Engineering. I hold CompTIA Security+ and have spent the last year building hands-on experience through homelab environments, security automation tools, and real-world client IT work across healthcare and transport industries.
+Security+ certified. Hands-on across SIEM, EDR, IAM, and 
+cloud security tooling. Everything here is built, documented, 
+and production-ready.
 
-Currently targeting Security Analyst and SOC Analyst roles while building toward Cloud Security Engineer and AI Security Engineer long term.
-
+Currently targeting Security Analyst and SOC Analyst roles 
+while building toward Cloud Security Engineer and AI Security 
+Engineer long term.
 ---
 
 ## Certifications
